@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VedAmritamKYC</string>
+    <string name="name">Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="email_id">Email ID</string>
+    <string name="address">Address</string>
+    <string name="submit">Submit</string>
+    <string name="header">Ved-Amritam</string>
+    <string name="addKYC">Add KYC</string>
+    <string name="exportCSV">Export to CSV</string>
+    <string name="qr_code">QR code</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+</resources>
